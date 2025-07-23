@@ -1,0 +1,30 @@
+[
+  {
+    "frage": "Wozu dient das Anbringen von Sicherheitszeichen?",
+    "antwort": "Sie sollen Unfälle verhindern und die Gesundheit schützen."
+  },
+  {
+    "frage": "Welche Arten von Sicherheitszeichen gibt es?",
+    "antwort": "Warnzeichen, Verbotszeichen, Gebotszeichen, Rettungszeichen, Brandschutzzeichen, Kennzeichnung von Gefahrenstoffen."
+  },
+  {
+    "frage": "Wann müssen Sicherheitszeichen angebracht werden?",
+    "antwort": "Wenn es um ständige Verbote, Warnungen, Gebote und sonstige sicherheitsrelevante Hinweise geht."
+  },
+  {
+    "frage": "Wann muss eine betriebliche Unterweisung stattfinden?",
+    "antwort": "Beschäftigte müssen vor Aufnahme der Tätigkeit unterwiesen werden."
+  },
+  {
+    "frage": "In welchem Intervall sollten die Beschäftigten mindestens unterwiesen werden?",
+    "antwort": "Mindestens einmal jährlich."
+  },
+  {
+    "frage": "Was wird durch eine Gelb-schwarz gestreifte Sicherheitsmarkierung gekennzeichnet?",
+    "antwort": "Dauerhafte Hindernisse und Gefahrenstellen."
+  },
+  {
+    "frage": "Wo wird festgelegt, in welchen Abständen die Wirksamkeit der Sicherheitskennzeichnungen kontrolliert wird?",
+    "antwort": "In der Gefährdungsbeurteilung."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "frage": "Was bedeutet Persönliche Schutzausrüstung im Sinne der PSA-Benutzungsverordnung?",
+    "antwort": "Persönliche Schutzausrüstung ist jede Ausrüstung, die dazu bestimmt ist, von den Beschäftigten benutzt oder getragen zu werden, um sich gegen eine Gefährdung für ihre Sicherheit und Gesundheit zu schützen."
+  },
+  {
+    "frage": "Wann muss die Persönliche Schutzausrüstung vom Versicherten auf augenscheinliche Mängel hin geprüft werden?",
+    "antwort": "Vor jeder Benutzung."
+  },
+  {
+    "frage": "Nennen Sie 4 gebräuchliche Arten der PSA.",
+    "antwort": "Fußschutz, Augenschutz, Gehörschutz, Kopfschutz, Hautschutz, Atemschutz, Gesichtsschutz, Knieschutz."
+  },
+  {
+    "frage": "Womit muss die PSA gekennzeichnet sein?",
+    "antwort": "Mit dem CE-Kennzeichen."
+  },
+  {
+    "frage": "Warum müssen im Dachdeckerhandwerk mindestens Sicherheitsschuhe der Klasse S3 getragen werden?",
+    "antwort": "Da diese Durchtrittssicherheit gewährleisten."
+  },
+  {
+    "frage": "Nennen Sie drei Gefährdungen gegen die ein Knieschutz einzusetzen ist.",
+    "antwort": "Feuchter Untergrund, Unebenheiten, Spitze oder scharfe Gegenstände."
+  },
+  {
+    "frage": "Wann müssen Industrieschutzhelme ausgetauscht werden?",
+    "antwort": "Nach einem starken Schlag oder Aufprall, auch wenn keine Beschädigungen erkennbar sind."
+  },
+  {
+    "frage": "Sie verwenden eine Atemmaske mit Partikelfilter P2 und der Kennzeichnung „NR“. Wie verfahren Sie nach Gebrauch mit der Maske?",
+    "antwort": "Sie ist nach Gebrauch zu entsorgen."
+  },
+  {
+    "frage": "Nennen Sie 3 Gefährdungen bei denen Sie einen Augen- und Gesichtsschutz tragen sollten.",
+    "antwort": "Mechanische Gefährdung, optische Gefährdung, chemische Gefährdung, thermische Einwirkung."
+  },
+  {
+    "frage": "Ab welchem Tageslärmexpositionsschallpegel muss Gehörschutz getragen werden?",
+    "antwort": "Ab 85 dB bei einer 8-Stunden-Schicht."
+  },
+  {
+    "frage": "Was versteht man unter dem Tageslärmexpositionsschallpegel?",
+    "antwort": "Der Tages-Lärmpegel (LEX,8h) ist der über die Zeit gemittelte Lärmexpositionspegel bezogen auf eine 8-Stunden-Schicht und umfasst alle am Arbeitsplatz auftretenden Schallereignisse."
+  },
+  {
+    "frage": "Nennen Sie 3 Arten von Gehörschutz.",
+    "antwort": "Kapselgehörschutz, Gehörschutzstöpsel, Otoplastiken."
+  },
+  {
+    "frage": "Nennen Sie 4 Gefährdungen gegen die Schutzhandschuhe schützen.",
+    "antwort": "Thermische Belastung, mechanische Belastung, chemische Belastung, biologische Arbeitsstoffe, UV-Strahlen, elektrische Spannung, Vibration."
+  }
+]

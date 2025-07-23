@@ -1,0 +1,66 @@
+[
+  {
+    "frage": "Was ist Marketing?",
+    "antwort": "Marketing ist die bewusste, systematische und konsequente Ausrichtung aller Unternehmensaktivitäten auf tatsächliche und mögliche Märkte."
+  },
+  {
+    "frage": "Was ist ein Markt (strategisches Dreieck)?",
+    "antwort": "Ein Markt ist der Ort, an dem Angebot und Nachfrage aufeinandertreffen. Im strategischen Dreieck stehen Unternehmen, Kunde und Wettbewerber im Fokus."
+  },
+  {
+    "frage": "Was ist Corporate Identity?",
+    "antwort": "Corporate Identity beschreibt einen einheitlichen Marktauftritt eines Unternehmens und umfasst Unternehmer und Mitarbeiter."
+  },
+  {
+    "frage": "Wie erreicht man einen einheitlichen Auftritt (Corporate Identity)?",
+    "antwort": "Durch einheitliches Verhalten, einheitliche, schlüssige Kommunikation und eine einheitliche Unternehmensoptik."
+  },
+  {
+    "frage": "Wie bekommt man eine sichere Position im Markt?",
+    "antwort": "Durch Wettbewerbsvorteile und Alleinstellungsmerkmale, die das Unternehmen vom Wettbewerb abheben oder sogar eine Wettbewerbssituation vermeiden."
+  },
+  {
+    "frage": "Was ist ein direkter Wettbewerber?",
+    "antwort": "Ein direkter Wettbewerber bietet aus Kundensicht vergleichbare Leistungen an, richtet sich an dieselben Zielgruppen und ist im selben Einzugsgebiet tätig."
+  },
+  {
+    "frage": "Wo wird der Wettbewerb geregelt?",
+    "antwort": "Im Gesetz gegen den unlauteren Wettbewerb (UWG)."
+  },
+  {
+    "frage": "Was ist laut UWG unzulässig?",
+    "antwort": "Unlautere oder aggressive geschäftliche Handlungen, irreführende Werbung, unzumutbare Belästigung sowie unzulässige vergleichende Werbung."
+  },
+  {
+    "frage": "Was ist eine Marktnische?",
+    "antwort": "Eine Marktnische ist ein Marktbereich, in dem man als einziger oder mit sehr wenigen Mitanbietern auftritt."
+  },
+  {
+    "frage": "Welche Ansatzpunkte für Marktnischen gibt es?",
+    "antwort": "Region, Leistungen und Zielgruppen."
+  },
+  {
+    "frage": "Was sind lukrative Zielgruppen?",
+    "antwort": "Zielgruppen mit Bedarf an den Leistungen, die betrieblichen Ziele und Gewinne sichern, Kundentreue fördern und Liquidität bringen."
+  },
+  {
+    "frage": "Was ist eine Zielgruppe?",
+    "antwort": "Eine homogene Personengruppe, die ähnliche Merkmale hat, sich ähnlich verhält und sich dadurch von anderen Personengruppen unterscheidet."
+  },
+  {
+    "frage": "Was ist ein Kunde?",
+    "antwort": "Ein Kunde ist eine konkrete Person, die sich für Produkte interessiert (potentieller Kunde) oder sie kauft/in Anspruch nimmt (aktueller Kunde)."
+  },
+  {
+    "frage": "Was macht eine Personengruppe zu einer möglichen Zielgruppe?",
+    "antwort": "Sie muss Geld haben, Entscheidungsbefugnis besitzen und den Wunsch nach der betrieblichen Leistung haben."
+  },
+  {
+    "frage": "Was ist ein Customer Journey?",
+    "antwort": "Ein Customer Journey beschreibt die ‚Kundenreise‘ – ein Marketinginstrument, das die Kundenperspektive in den Mittelpunkt stellt."
+  },
+  {
+    "frage": "Aus welchen 5 Phasen besteht der Customer Journey?",
+    "antwort": "Awareness (Bewusstsein), Consideration (Überlegung), Conversion (Überzeugung), Retention (Bindung), Advocacy (Befürwortung)."
+  }
+]
