@@ -1,0 +1,22 @@
+[
+  {
+    "frage": "Welche Mindestgrößen müssen Not-Ausstiegsfenster haben?",
+    "antwort": "1,08 m² Ausstiegsfläche, jedoch im lichten Ausstiegsmaß nicht kleiner als 0,90 m * 1,20 m. Die Ausstiegsunterkante darf nicht höher als 1,20 m über der Fußbodenoberkante sein."
+  },
+  {
+    "frage": "Wie weit sollten sich Durchdringungen der Dachhaut vom Grenzbereich befinden, bezogen auf den Brandschutz am Steildach?",
+    "antwort": "1,25 m"
+  },
+  {
+    "frage": "Wie muss eine Brandwand bei einer Ziegeleindeckung in einem Reihenhaus ausgeführt werden? Gebäudehöhe <7 m, wenige Wohnparteien.",
+    "antwort": "Die Brandwand muss bis unter die Dachhaut (Ziegel) geführt werden. Dort kann mit nicht brennbaren Materialien gearbeitet oder ausgemörtelt werden."
+  },
+  {
+    "frage": "Welche Brandreaktionsklassen gibt es und wie unterscheiden sie sich?",
+    "antwort": "- A1 = nicht brennbar in ihrer Zusammensetzung\n- A2 = nicht brennbar, mit geringem Anteil brennbarer Bestandteile\n- B1 = schwer entflammbar\n- B2 = normal entflammbar\n- B3 = leicht entflammbar (laut Bauordnung verboten)"
+  },
+  {
+    "frage": "Welche Feuerwiderstandsklassen gibt es?",
+    "antwort": "- F30 = 30 Minuten Widerstand\n- F60 = 60 Minuten Widerstand\n- F90 = 90 Minuten Widerstand\n- F120 = 120 Minuten Widerstand\n- F180 = 180 Minuten Widerstand"
+  }
+]

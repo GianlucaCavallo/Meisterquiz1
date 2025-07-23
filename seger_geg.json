@@ -1,0 +1,46 @@
+[
+  {
+    "frage": "Auf welche Gebäudetypen ist das GEG anzuwenden? (§ 2 GEG)",
+    "antwort": "Wohngebäude, Nichtwohngebäude, Gebäude mit gemischter Nutzung, Gebäude im Bestand, Neubauten"
+  },
+  {
+    "frage": "Ist eine Befreiung vom GEG möglich? (§ 102 GEG)",
+    "antwort": "Ja, wenn\n- Die Vorschriften viel zu teuer im Verhältnis zum Nutzen sind\n- Das Gebäude unter Denkmalschutz steht und Maßnahmen sein Aussehen/Substanz beschädigen würden\n- Besondere Umstände das Einhalten extrem erschweren. Antrag bei Behörde nötig."
+  },
+  {
+    "frage": "Welche Anforderungen werden an zu errichtende Gebäude gestellt? (§ 10 ff. GEG)",
+    "antwort": "- Wärmeschutz des Gebäudes\n- Effiziente Heizungs- und Anlagentechnik\n- Einsatz erneuerbarer Energien\n- Verbot veralteter Technik"
+  },
+  {
+    "frage": "Welche Nachrüstpflichten sind für Eigentümer vorgeschrieben? (§ 47 GEG)",
+    "antwort": "- Alte Heizkessel austauschen\n- Dämmen von Rohrleitungen\n- Dämmen der obersten Geschossdecke, wenn Dach nicht nach DIN 4108"
+  },
+  {
+    "frage": "Gilt die Bagatellregelung auch für das GEG und welche Anforderungen sind einzuhalten? (§ 48 GEG)",
+    "antwort": "Wenn < 10% eines Bauteils saniert werden → nur Ursprungszustand wiederherstellen. Bei >10% muss nach GEG gearbeitet werden."
+  },
+  {
+    "frage": "In welchen Fällen sind Energieausweise auszustellen? (§ 79 GEG)",
+    "antwort": "- Für Neubauten\n- Bei Verkauf, Vermietung oder Verpachtung\n- Bei größeren Sanierungen\n- Für öffentliche Gebäude"
+  },
+  {
+    "frage": "Welche Gebäude sind von der Ausstellung eines Energieausweises ausgenommen?",
+    "antwort": "- Freistehende Gebäude <50 m²\n- Provisorische Bauten (max 2 Jahre)\n- Spezielle Betriebsgebäude (Tierhaltung, Gewächshäuser, Werkhallen)\n- Denkmalgeschützte Gebäude\n- Gebäude ohne Energiebedarf (Lagerhallen)"
+  },
+  {
+    "frage": "Dürfen Dachdecker Energieausweise ausstellen?",
+    "antwort": "Nein, nur qualifizierte Personen wie Energieberater, Bauingenieure etc."
+  },
+  {
+    "frage": "Wer ist für die Einhaltung des GEG verantwortlich? (§ 8 GEG)",
+    "antwort": "Eigentümer bzw. Bauherr"
+  },
+  {
+    "frage": "Welche Bußgelder drohen bei Nichteinhaltung? (§ 108 GEG)",
+    "antwort": "Bis zu 50.000 €"
+  },
+  {
+    "frage": "Welche Fördermöglichkeiten gibt es für energetische Maßnahmen? (§ 89-91 GEG)",
+    "antwort": "- KFW/BAFA Förderungen (Zuschüsse, Kredite)\n- Steuerliche Förderung"
+  }
+]

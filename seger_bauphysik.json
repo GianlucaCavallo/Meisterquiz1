@@ -1,0 +1,62 @@
+[
+  {
+    "frage": "Was ist Wärme? Wie wirkt sich die Erwärmung eines Körpers auf seine Moleküle aus?",
+    "antwort": "Wärme ist eine Art von Energie, genauer Bewegungsenergie. Durch Erwärmung bewegen sich die Moleküle schneller und stoßen sich stärker ab (Ausdehnung)."
+  },
+  {
+    "frage": "Was beschreibt die Temperatur eines Stoffes? Wie wird sie bestimmt?",
+    "antwort": "Die Temperatur beschreibt die enthaltene Wärmeenergie eines Stoffes, also die Bewegungsintensität seiner Teilchen. Sie wird mit Thermometern gemessen, z.B. Kontakt- oder Laserthermometer. Einheit °C oder Kelvin."
+  },
+  {
+    "frage": "Wie kann die Ausbreitung von Wärme erfolgen?",
+    "antwort": "- Wärmeleitung (Transmission)\n- Wärmestrahlung (Radiation)\n- Wärmemitführung (Konvektion)"
+  },
+  {
+    "frage": "Kann sich Wärmestrahlung auch im Vakuum ausbreiten?",
+    "antwort": "Ja, da Wärmestrahlung elektromagnetische Wellen nutzt. Erst beim Auftreffen auf Materie wird Wärme spürbar."
+  },
+  {
+    "frage": "In welche Richtung fließt der Wärmestrom?",
+    "antwort": "Immer vom Ort höherer Temperatur zum Ort niedrigerer Temperatur."
+  },
+  {
+    "frage": "Was versteht man unter einem SD-Wert? Wie wird er errechnet und wie lautet die Einheit?",
+    "antwort": "SD-Wert (Wasserdampfdiffusionsäquivalente Luftschichtdicke) = μ * d.\nμ = Diffusionswiderstandszahl\nd = Dicke der Schicht in m. Einheit: m."
+  },
+  {
+    "frage": "Welche 5 Hauptunterscheidungen kann man beim SD-Wert treffen?",
+    "antwort": "<0,5 m = diffusionsoffen\n0,5–10 m = diffusionsbremsend\n10–100 m = diffusionshemmend\n100–1500 m = diffusionssperrend\n>1500 m = diffusionsdicht"
+  },
+  {
+    "frage": "Erklären Sie maximale, absolute und relative Luftfeuchtigkeit!",
+    "antwort": "Maximale: wie viel Wasser 1 m³ Luft max. aufnehmen kann (temp.-abhängig).\nAbsolute: wie viel Wasser tatsächlich in 1 m³ Luft enthalten ist.\nRelative: Verhältnis absolute zu maximaler Feuchte in %."
+  },
+  {
+    "frage": "Was ist der Wärmedurchgangswiderstand? Wie wird er berechnet?",
+    "antwort": "Der Widerstand, den das gesamte Bauteil dem Wärmestrom entgegensetzt. RT = Summe aller Wärmedurchlasswiderstände + Rsi + Rse. Einzelne Schicht: R = d / λ."
+  },
+  {
+    "frage": "Was ist die Wärmedurchgangszahl (U-Wert)?",
+    "antwort": "Wie wärmedurchlässig ein Bauteil ist. U = 1 / RT. Einheit W/m²K. Je kleiner, desto besser gedämmt."
+  },
+  {
+    "frage": "Was ist der Wärmeübergangswiderstand (Rsi, Rse)?",
+    "antwort": "Widerstand beim Wärmeübergang von Raumluft ins Bauteil (Rsi) bzw. vom Bauteil in Außenluft (Rse). Einheit m²K/W."
+  },
+  {
+    "frage": "Was ist der Wärmedurchlasswiderstand?",
+    "antwort": "Widerstand einer einzelnen Materialschicht gegen Wärmeleitung. R = d / λ. Einheit m²K/W."
+  },
+  {
+    "frage": "Beschreiben Sie die Transmission (Wärmeleitung)!",
+    "antwort": "Wärmeübertragung durch direkten Molekülkontakt in Feststoffen. Beispiel: heiße Tasse überträgt Wärme an die Hand."
+  },
+  {
+    "frage": "Was versteht man unter einer Wärmebrücke?",
+    "antwort": "Bereich der Gebäudehülle, an dem verstärkt Wärme entweicht. Ursachen: Geometrie (Ecken), Materialwechsel (Stahlträger), Unterbrechung Dämmschicht, Ausführungsfehler."
+  },
+  {
+    "frage": "Bei 273,15K kann 1 m³ Luft max. 5g Wasser aufnehmen. Wie viel Wasserdampf bei 45% rel. Feuchte?",
+    "antwort": "5 g * 0,45 = 2,25 g."
+  }
+]

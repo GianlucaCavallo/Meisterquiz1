@@ -1,0 +1,42 @@
+[
+  {
+    "frage": "Nennen Sie die 3 Anwendungsgebiete für Wärmedämmstoffe nach DIN.",
+    "antwort": "a. Dämmstoffe für Dächer\nb. Dämmstoffe für Außenwände\nc. Dämmstoffe für Decken oder Böden gegen unbeheizte Räume oder Erdreich"
+  },
+  {
+    "frage": "Nennen Sie 5 Produkteigenschaften für Wärmedämmstoffe nach DIN.",
+    "antwort": "a. Wärmeleitfähigkeit (λ-Wert)\nb. Rohdichte\nc. Wasserdampfdiffusionswiderstand (μ-Wert)\nd. Brandverhalten\ne. Druckfestigkeit"
+  },
+  {
+    "frage": "Welche Kriterien zur Beurteilung der Einsatzfähigkeit werden für die Wahl eines Wärmedämmstoffes herangezogen?",
+    "antwort": "- Wärmeleitfähigkeit (λ-Wert)\n- Brandverhalten nach DIN 4102\n- Wasserdampfdiffusionswiderstand (μ-Wert)\n- Druckfestigkeit\n- Alterungs- und Verrottungsbeständigkeit\n- Feuchteempfindlichkeit"
+  },
+  {
+    "frage": "Nennen Sie 5 organische Wärmedämmstoffe.",
+    "antwort": "a. Holzfaser\nb. Zellulose\nc. Kork\nd. Hanf\ne. Schafwolle"
+  },
+  {
+    "frage": "Nennen Sie 5 anorganische Wärmedämmstoffe.",
+    "antwort": "a. Steinwolle\nb. Perlite\nc. Glaswolle\nd. Schaumglas\ne. Blähglasgranulat"
+  },
+  {
+    "frage": "Nennen Sie 4 Materialien, die für ein WDVS verwendet werden können.",
+    "antwort": "a. Polystyrol (EPS oder XPS)\nb. Mineralwolle (Steinwolle)\nc. Polyurethan (PUR)\nd. Kork"
+  },
+  {
+    "frage": "Was versteht man unter dem 'Nullsteuersatz' in Verbindung mit einer Photovoltaik-Anlage?",
+    "antwort": "Privatpersonen, die eine PV-Anlage installieren, können beim Kauf und der Installation die Mehrwertsteuer (19%) vom Finanzamt erstattet bekommen."
+  },
+  {
+    "frage": "Kommt bei der Montage einer PV-Anlage auf einem sanierungsbedürftigen Dach der Nullsteuersatz zum Tragen und wenn ja, für welche Arbeiten?",
+    "antwort": "Ja, aber nur auf die Solaranlage und deren Montagearbeiten – nicht für Dachsanierungsarbeiten."
+  },
+  {
+    "frage": "Was versteht man unter dem 'Raupeneffekt'?",
+    "antwort": "Temperaturschwankungen bei aufgeständerten PV-Anlagen auf Flachdächern führen zu Bewegungen des Gestells. Dadurch 'kriechen' die Anlagen langsam abwärts."
+  },
+  {
+    "frage": "Was sind Azimutwinkel und Elevationswinkel bei PV-Anlagen?",
+    "antwort": "Azimutwinkel: horizontale Ausrichtung bezogen auf Süden (optimal = 0°).\nElevationswinkel: Neigung der Module, optimal in Mitteleuropa 30–40°."
+  }
+]

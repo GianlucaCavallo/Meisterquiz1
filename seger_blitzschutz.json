@@ -1,0 +1,26 @@
+[
+  {
+    "frage": "Beschreiben Sie das Blitzkugelverfahren und wo man es anwenden kann.",
+    "antwort": "Das Blitzkugelverfahren ist ein Verfahren zur Planung von äußerem Blitzschutz. Man stellt sich eine gedachte Kugel mit festem Radius vor, die über das Gebäude rollt. Alle Punkte, die berührt werden, gelten als blitzgefährdet und müssen geschützt werden. Geeignet auch für komplizierte Bauten."
+  },
+  {
+    "frage": "Beschreiben Sie das Schutzwinkelverfahren und wo man es anwenden kann.",
+    "antwort": "Vom oberen Ende einer Fangstange oder Leitung wird ein Schutzwinkel α zur Dachfläche abgetragen. Innerhalb des Winkels ist das Gebäude geschützt. Der Winkel α hängt von der Blitzschutzklasse ab. Anwendbar bei einfachen, niedrigen Gebäuden."
+  },
+  {
+    "frage": "Beschreiben Sie das Maschenweitenverfahren und wo findet es Anwendung?",
+    "antwort": "Das Dach wird mit einem Fangnetz aus Leitungen abgedeckt. Die Maschenweite richtet sich nach der Blitzschutzklasse. Anwendung vor allem auf großen, flachen Dächern."
+  },
+  {
+    "frage": "Aus welchen 2 Oberkategorien setzt sich der Blitzschutz zusammen und aus welchen Teilen bestehen diese?",
+    "antwort": "Äußerer Blitzschutz:\n- Fangeinrichtungen (Fangstangen, Fangnetze)\n- Ableitungen\n- Erdung\nInnerer Blitzschutz:\n- Potentialausgleich\n- Überspannungsschutz\n- Trennungen"
+  },
+  {
+    "frage": "Beschreibe die Funktion des Potentialausgleichs.",
+    "antwort": "Der Potentialausgleich verbindet die Blitzschutzanlage mit leitfähigen Teilen im Haus. So werden Potentialunterschiede vermieden und alles mit der Erdungsanlage verbunden."
+  },
+  {
+    "frage": "Woraus kann eine Fangvorrichtung bestehen?",
+    "antwort": "- Stangen\n- Drähte\n- Seile\n- Vermaschte Leiter\n- Natürliche Leiter (Bauwerksteile)"
+  }
+]

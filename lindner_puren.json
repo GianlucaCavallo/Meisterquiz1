@@ -1,0 +1,62 @@
+[
+  {
+    "frage": "Was versteht man unter Wärme-Transmission?",
+    "antwort": "Wärmeübertragung bzw. Wärmetransport: Wärmeenergie wird von einem Bereich in einen anderen übertragen, verursacht durch Molekülschwingung."
+  },
+  {
+    "frage": "Nennen Sie 4 Gründe für den Einbau einer Wärmedämmung!",
+    "antwort": "1) Energieeinsparung\n2) Schallschutz\n3) Objektwertsteigerung/-erhaltung\n4) Verbesserung des sommerlichen Wärmeschutzes"
+  },
+  {
+    "frage": "Wo entstehen geometrisch bedingte Wärmebrücken und wie wirkt man ihnen entgegen?",
+    "antwort": "Geometrisch bedingte Wärmebrücken entstehen an Gebäudeecken/-kanten (Innenfläche kleiner als Außenfläche). Reduzierbar durch gute Außendämmung."
+  },
+  {
+    "frage": "Nennen Sie 3 Vorteile einer Aufdachdämmung!",
+    "antwort": "1) Durchgehende Dämmschicht ohne Unterbrechung\n2) Keine Materialwechsel\n3) Schutz der Tragkonstruktion vor Temperaturschwankungen"
+  },
+  {
+    "frage": "Was versteht man unter PUR?",
+    "antwort": "PUR = Polyurethan-Hartschaum. Entsteht durch chemische Reaktion flüssiger Grundstoffe mit Treibmitteln. Geschlossenzelliger Dämmstoff mit sehr geringer Wärmeleitfähigkeit."
+  },
+  {
+    "frage": "Was ist eine Luftdichtheitsschicht?",
+    "antwort": "Schicht, die unkontrolliertes Entweichen von Raumluft verhindert, damit kein Wärmeverlust und keine Tauwasserbildung durch Konvektion entsteht. Nähte und Stöße müssen luftdicht sein."
+  },
+  {
+    "frage": "Wo sollte die Luftdichtheitsschicht liegen?",
+    "antwort": "Unterhalb oder zwischen der Wärmedämmung, um Durchfeuchtung durch Wasserdampfdiffusion auszuschließen."
+  },
+  {
+    "frage": "Von wem wird eine Luftdichtheitsschicht gefordert?",
+    "antwort": "GEG (früher EnEV), Fachregeln des Dachdeckerhandwerks, DIN 4108-7."
+  },
+  {
+    "frage": "Wieviele Energieeffizienzklassen gibt es und wie heißen sie?",
+    "antwort": "9 Klassen: A+ bis H. A+ = sehr niedriger Energieverbrauch, H = sehr hoch."
+  },
+  {
+    "frage": "Was ist beim Einbau zusätzlicher Wärmedämmschichten über einer Luftdichtheitsschicht zu beachten?",
+    "antwort": "Max. 20% des gesamten Wärmedurchlasswiderstands darf unterhalb der Dampfbremse liegen."
+  },
+  {
+    "frage": "Nennen Sie 3 Vorteile von Polyurethan-Dämmung!",
+    "antwort": "1) Sehr geringe Wärmeleitfähigkeit (λ bis 0,022 W/mK)\n2) Geringe Dämmdicken möglich\n3) Formstabil, druckfest, schimmel- und feuchteresistent, allergikerfreundlich."
+  },
+  {
+    "frage": "Was ist ein Blower-Door-Test und was bedeutet n50-Wert?",
+    "antwort": "Messverfahren zur Luftdichtheit eines Gebäudes. n50-Wert = wie oft pro Stunde sich die Luft bei 50 Pascal Druckdifferenz austauscht. Max-Werte: ohne Lüftungsanlage 3,0 / mit 1,5 / Passivhaus 0,6."
+  },
+  {
+    "frage": "Gibt es gesetzliche Regelungen für eine Winddichtheitsschicht?",
+    "antwort": "Nein, Winddichtigkeit ist nicht genormt oder gesetzlich geregelt."
+  },
+  {
+    "frage": "Was ist eine Winddichtheitsschicht und wo liegt sie?",
+    "antwort": "Außenseite der Dämmung. Verhindert Auskühlen durch Wind, schützt Dämmung vor Feuchtigkeit, dient als Behelfsdeckung."
+  },
+  {
+    "frage": "Was ist Konvektion durch Leckagen?",
+    "antwort": "Wärmeströmung: warme Innenluft entweicht durch Undichtigkeiten, transportiert Feuchte ins Bauteil → Wärmeverlust & Tauwasserbildung."
+  }
+]

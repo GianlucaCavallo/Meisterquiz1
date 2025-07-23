@@ -1,0 +1,62 @@
+[
+  {
+    "frage": "Wie breit muss der Kiesstreifen sein, den Sie bei einem Gründach zum Brandschutz ausbilden müssen?",
+    "antwort": "Mindestens 50 cm."
+  },
+  {
+    "frage": "Welche Arten von Gründachaufbauten kennen Sie?",
+    "antwort": "Extensives Gründach:\n- Robuste, pflegeleichte Pflanzen (Sedum, Moos, Gräser)\n- Substratschicht 4–12 cm\n- Geringer Pflegeaufwand, geringe Dachlast\n\nIntensives Gründach:\n- Vielfältige Bepflanzung (Sträucher, Stauden, Bäume)\n- Substratschicht 15–30 cm oder mehr\n- Höherer Pflegeaufwand, stärkere Belastung\n\nRetentionsdach:\n- Speichert Regenwasser und gibt es verzögert ab, entlastet Entwässerungssysteme"
+  },
+  {
+    "frage": "Was versteht man unter einem Retentionsdach?",
+    "antwort": "Spezielle Art von Gründach, das Regenwasser speichert und langsam abgibt, um die Entwässerung zu entlasten."
+  },
+  {
+    "frage": "Wie viele Windlastzonen gibt es in Deutschland und welche ist die leichteste/schlimmste?",
+    "antwort": "Zone 1 = leichteste/geringste Windlast, Zone 4 = höchste/schlimmste Windlast."
+  },
+  {
+    "frage": "Definieren Sie den Begriff S10.",
+    "antwort": "S = visuelle Sortierung, 10 = Druckfestigkeit 10 N/mm²; gehört zu C24 mit 24 N/mm² Biegefestigkeit."
+  },
+  {
+    "frage": "Wie müssen Kaminmündungen für feste Brennstoffe (Baujahr nach 31.12.2021) aus dem Dach geführt werden?",
+    "antwort": "Firstnah und mindestens 40 cm über Firsthöhe."
+  },
+  {
+    "frage": "Ab wieviel ° Dachneigung dürfen Dachfenster im Steildach standardmäßig eingebaut werden?",
+    "antwort": "Ab 15° Dachneigung ohne weitere Maßnahmen."
+  },
+  {
+    "frage": "Worauf sollten Sie Kunden hinweisen, wenn Sie eine Terrasse mit Bangkirai oder Bambusbelag verkleiden?",
+    "antwort": "Nicht barfuß nutzen – Splittergefahr (Sepsisrisiko)! Unterkonstruktion aus gleichem Holz wegen unterschiedlicher Längenausdehnung."
+  },
+  {
+    "frage": "Nennen Sie 3 Trockenholzinsekten, die bei Gebäudesanierung vorkommen können.",
+    "antwort": "Hausbockkäfer, Holzwurm, Termiten (seltener auch Schwammsporen)."
+  },
+  {
+    "frage": "Welche 2 Herstellungsverfahren kennen Sie für Holzschindeln?",
+    "antwort": "Spalten und Schneiden."
+  },
+  {
+    "frage": "Warum muss bei einer Holzschindeldeckung der Belüftungsraum bei gesägten Schindeln höher sein als bei gespaltenen?",
+    "antwort": "Gesägte Schindeln haben zerstörte Holzfasern → höhere Wasseraufnahme → höhere Feuchtebelastung → größere Hinterlüftung nötig."
+  },
+  {
+    "frage": "Beschreiben Sie den historischen Hintergrund des Feierabendziegels.",
+    "antwort": "Im Mittelalter der letzte Ziegel einer Produktion, oft mit Malereien/Kennzeichnungen versehen und als letzter Ziegel auf dem Dach verlegt."
+  },
+  {
+    "frage": "Wie setzen Sie in einem Satteldach Dachhaken als Anschlagpunkte (40° DN, 12m Sparren, 12m Traufe)?",
+    "antwort": "Immer nach Herstellervorschrift auf dem Sparren. Im Steildach in Sparrenflucht alle 2,5–5m zur Traufe, 1–2m zum First, 2,5–5m vom Ortgang, max. 5m in Traufflucht. Zugangshaken max. 1m oberhalb der Traufe."
+  },
+  {
+    "frage": "Wo endet der Kompetenzbereich eines Dachdeckers bei der Dachentwässerung?",
+    "antwort": "Innenliegende Entwässerung: ab Unterkante Deckenkonstruktion. Außenliegende: bis Erdreich."
+  },
+  {
+    "frage": "Was versteht man unter einer Kaskadenentwässerung und dürfen Sie diese ausführen?",
+    "antwort": "Entwässerung auf tieferliegende Gebäude/Leitungen. Erlaubt, wenn Funktionsfähigkeit gewährleistet ist."
+  }
+]

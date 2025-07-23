@@ -1,0 +1,62 @@
+[
+  {
+    "frage": "Bei der hinterlüfteten Außenwandbekleidung spricht man von einem Maximalwert der Hinterlüftungsebene. Wie groß sollte dieser sein und warum?",
+    "antwort": "4–6 cm. Unter 4 cm = kaum Hinterlüftung. Über 6 cm = Brandgefahr durch Kamineffekt."
+  },
+  {
+    "frage": "Nennen Sie folgende Regeldachneigungen: a) Altdeutsche Deckung b) Biberschwanz Kronendeckung c) Doppelstehfalz",
+    "antwort": "Altdeutsche Deckung: 25°\nBiberschwanz Kronendeckung: 30°\nDoppelstehfalz: 7°"
+  },
+  {
+    "frage": "Nennen Sie 5 mögliche Trägereinlagen für Bitumenbahnen (Bezeichnung + Abkürzung)",
+    "antwort": "PV = Polyesterfaservlies\nG = Glasgewebe\nV = Glasvlies\nR = Rohfilz\nKTG = Kombinationsträgereinlage\nJ = Jute\nAL = Aluminium\nCu = Kupfer"
+  },
+  {
+    "frage": "Nennen Sie 3 Dachabdichtungsbahnen aus thermoplastischen Kunststoffen (Bezeichnung + Abkürzung)",
+    "antwort": "PVC = Polyvinylchlorid\nTPO = Thermoplastisches Polyolefin\nECB = Ethylen-Bitumen-Copolymer"
+  },
+  {
+    "frage": "Nennen Sie 3 Dachabdichtungsbahnen aus elastomeren Kunststoffen (Bezeichnung + Abkürzung)",
+    "antwort": "EPDM = Ethylen-Propylen-Dien-Monomer\nCSM = Chlorsulfoniertes Polyethylen\nNBR = Nitrilkautschuk"
+  },
+  {
+    "frage": "Nennen Sie die Rohdichte (g/cm³) für: a) Qualitätsschiefer b) Zink c) Blei d) Aluminium e) Kupfer f) Zinn",
+    "antwort": "Schiefer: 2,75\nZink: 7,2\nBlei: 11,34\nAluminium: 2,7\nKupfer: 8,93\nZinn: 7,3"
+  },
+  {
+    "frage": "Nennen Sie die Ausdehnungskoeffizienten (mm/mk) für: a) Titanzink b) Blei c) Aluminium d) Kupfer",
+    "antwort": "Titanzink: 0,022\nBlei: 0,029\nAlu: 0,024\nKupfer: 0,017"
+  },
+  {
+    "frage": "Nennen Sie die Schmelzpunkttemperatur (°C) und das Kurzzeichen für: a) Zink b) Blei c) Aluminium d) Kupfer e) Zinn",
+    "antwort": "Zink: 420°C Zn\nBlei: 327°C Pb\nAluminium: 660°C Al\nKupfer: 1083°C Cu\nZinn: 232°C Sn"
+  },
+  {
+    "frage": "Erklären Sie die Anwendungstypen der Dachabdichtung anhand der Kurzzeichen: a) DE b) DO c) DU d) DZ",
+    "antwort": "DE: Einlagige Abdichtung\nDO: Oberlage mehrlagig\nDU: Unterlage mehrlagig\nDZ: Zwischenlage mehrlagig"
+  },
+  {
+    "frage": "Wie groß muss der Lüftungsquerschnitt bei Steildächern im Bereich der Grate mindestens sein?",
+    "antwort": "Mind. 0,5 Promille der Dachfläche, aber mindestens 50 cm²/m."
+  },
+  {
+    "frage": "Was versteht man unter einem Dachgraben und was ist zu beachten?",
+    "antwort": "Dachgraben = Verschneidungslinie zweier giebelständiger Gebäude.\nBeachten: eigene Entwässerung, Sicherheitsrinne, Rinnenheizung."
+  },
+  {
+    "frage": "Nennen Sie 2 Kunststoffarten in Flüssigabdichtungen",
+    "antwort": "Polyurethane, Acrylate/Methacrylate (PMMA), Polyesterharze, Kautschukderivate, Bitumen-Latex."
+  },
+  {
+    "frage": "Was versteht man unter Holzwerkstoffen im Dachdeckerhandwerk?",
+    "antwort": "Aus Holz zersägt/zerfasert/zerspant hergestellte Platten. Sie verbessern oft die Eigenschaften gegenüber Vollholz."
+  },
+  {
+    "frage": "Nennen Sie die möglichen Nahtverbindungen für plastomere Kunststoffdachbahnen.",
+    "antwort": "Quellschweißen\nWarmgasschweißen\nDichtungs-/Abdeckbänder\nHochfrequenzschweißen\nHeißkeilschweißen"
+  },
+  {
+    "frage": "Nennen Sie drei große Kunststoffgruppen, die im Dachbereich Anwendung finden.",
+    "antwort": "Plastomere, Elastomere, Duromere"
+  }
+]

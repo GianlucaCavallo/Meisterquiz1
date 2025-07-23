@@ -1,0 +1,82 @@
+[
+  {
+    "frage": "Wieviel wiegt ca. 1m² einer 5cm dicken Kiesschüttung?",
+    "antwort": "ca. 90 kg"
+  },
+  {
+    "frage": "Nennen Sie 6 Schadstoffe, die Ihnen bei einer Gebäudesanierung begegnen können.",
+    "antwort": "Asbest, Formaldehyd, Blei, Schimmel, Staub, Taubenkot, alte Dämmung, PCB, Styrol"
+  },
+  {
+    "frage": "Nennen Sie 3 Arten der Sonneneinstrahlung.",
+    "antwort": "Direkte Sonneneinstrahlung, diffuse Sonneneinstrahlung, reflektierende Sonneneinstrahlung"
+  },
+  {
+    "frage": "Nennen Sie 3 Anwendungsgebiete der Solarthermie.",
+    "antwort": "Trinkwasser, Heizwasser, Schwimmbäder"
+  },
+  {
+    "frage": "Ab wann gilt ein Dämmstoff als trittfest?",
+    "antwort": "Ab einer Druckbelastbarkeit von 150 kPa (≈153 kg/m²)"
+  },
+  {
+    "frage": "In welchen Fällen muss die GEG nicht eingehalten werden?",
+    "antwort": "Denkmalschutz, wenn Bauherr das Dämmen übernimmt, Ausnahmegenehmigungen, Befreiungen, Bagatellgrenze <10%, bei nicht Wohngebäuden"
+  },
+  {
+    "frage": "Was ist Kapillarität?",
+    "antwort": "Wasser steigt in dünnen Röhren nach oben durch Zusammenspiel von Kohäsion und Adhäsion."
+  },
+  {
+    "frage": "Was ist Mergel?",
+    "antwort": "Mergel ist ein Gemisch aus Ton und Kalk, wichtig für Zementherstellung."
+  },
+  {
+    "frage": "Wie wird die sich bildende Schutzschicht von Zink genannt?",
+    "antwort": "Zinkcarbonat"
+  },
+  {
+    "frage": "Erklären Sie, was die Masse eines Körpers ist.",
+    "antwort": "Sie ist die Größe für die Art und Anzahl der in ihm enthaltenen Teilchen."
+  },
+  {
+    "frage": "Was ist eine Solarkonstante?",
+    "antwort": "Die Sonneneinstrahlung vor dem Eintritt in die Atmosphäre. Sie beträgt 1350 W/m²."
+  },
+  {
+    "frage": "Wie wird für den Menschen die thermische Behaglichkeit definiert?",
+    "antwort": "Zwischen 19°C und 22°C Raumlufttemperatur und einer relativen Luftfeuchte von 30% bis 70%."
+  },
+  {
+    "frage": "Was versteht man unter einem SD-Wert?",
+    "antwort": "Maß für den Widerstand, den ein Bauteil dem Wasserdampfdurchgang entgegensetzt. sd = μ * d. μ = Widerstandszahl, d = Dicke."
+  },
+  {
+    "frage": "Welche 5 Hauptunterscheidungen kann man beim SD-Wert treffen?",
+    "antwort": "Diffusionsoffen (0-0,5m), diffusionsbremsend (0,5-10m), diffusionshemmend (10-100m), diffusionssperrend (100-1500m), diffusionsdicht (>1500m)."
+  },
+  {
+    "frage": "Wie ermittelt man bei einem belüfteten Flachdach die Größe des Belüftungsquerschnittes?",
+    "antwort": "Mindestens 150 cm² pro Meter Traufe und an höchster Stelle mindestens 0,5% der Dachfläche."
+  },
+  {
+    "frage": "Nennen Sie 3 übliche Kupferlegierungen und ihre Hauptbestandteile.",
+    "antwort": "CU/ZN – Messing, CU/SN – Bronze, CU/SN/AG – Hartlot"
+  },
+  {
+    "frage": "Laut Wärmeschutz gibt es eine obere Temperaturgrenze für Wohnräume. Wie hoch ist diese?",
+    "antwort": "25°C bis 27°C je nach Gebiet in Deutschland"
+  },
+  {
+    "frage": "Welche Besonderheit gibt es bei S10er Hölzern bezüglich ihrer Dicke?",
+    "antwort": "Sie sind überproportioniert geschnitten, damit sie nach Austrocknen die richtige Dicke haben. S = visuelle Sortierung, 10 = 10 N/mm² Festigkeit."
+  },
+  {
+    "frage": "Erläutern Sie die Ausführung eines 1,20m langen firstseitigen Anschlusses (Kaminkehle).",
+    "antwort": "Firstseitige Anschlüsse werden je nach Dachneigung flächig oder vertieft ausgeführt. Ab 1m Länge mit Gefälle oder Sattel/Keil (Schweinsrücken) ausbilden."
+  },
+  {
+    "frage": "Warum können durch Konvektion (Leckagen in der Dampfsperre) größere Bauschäden entstehen als durch Diffusion?",
+    "antwort": "Konvektion = Luftströmung durch Leckagen transportiert viel mehr Feuchte ins Bauteil als langsame Diffusion → Kondensat & Schäden."
+  }
+]

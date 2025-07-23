@@ -1,0 +1,62 @@
+[
+  {
+    "frage": "Welche Gesetze und Vorgaben müssen Sie bei der Gebäudesanierung beachten?",
+    "antwort": "GEG (Gebäudeenergiegesetz), MBO (Musterbauordnung), LBO (Landesbauordnung), DIN 4108"
+  },
+  {
+    "frage": "Welche Bedingungen müssen Sie erfüllen, wenn Sie nachträglich ein Dachgeschoss ausbauen möchten?",
+    "antwort": "Nutzungsänderung beantragen, mind. 1/8 der Grundfläche als Fensterfläche, 50% der Grundfläche mind. 2,20m Höhe, 2 Fluchtwege, Rettungsfenster min. 0,90m x 1,20m und max. 1,20m Unterkante über Boden."
+  },
+  {
+    "frage": "Welche U-Werte müssen die Bauteile aufweisen, mit denen Sie in Berührung kommen?",
+    "antwort": "Steildach 0,24 W/m²K, Flachdach 0,20 W/m²K, Fassade 0,24 W/m²K, Dachfenster 1,40 Uw, Gaubendeckel 0,24 W/m²K, oberste Geschossdecke 0,24 W/m²K. Uw = Gesamtfenster, Ug = Glas, Uf = Rahmen."
+  },
+  {
+    "frage": "Können Sie dem Kunden pauschal berechnen, wieviel Dämmung er bei einer WLG 035 braucht, um GEG 2023 im Steildach zu erfüllen?",
+    "antwort": "1/0,24 = 4,167; 4,167 * 0,035 = 0,15 m → gewählt wird 16 cm, da ab 8 cm Dicke nur in 2 cm Schritten."
+  },
+  {
+    "frage": "Gegen was müssen Dächer widerstandsfähig sein und wer gibt das vor?",
+    "antwort": "LBO schreibt vor, dass Dächer gegen Flugfeuer und strahlende Wärme widerstandsfähig sein müssen."
+  },
+  {
+    "frage": "Ab wann zählt ein Gebäude zu einem Wohngebäude?",
+    "antwort": "Wenn es mind. 4 Monate/Jahr auf 19°C beheizt oder bewohnt wird."
+  },
+  {
+    "frage": "Welche Ersatzmaßnahme können Sie bei ungenutztem Speicherraum anbieten anstatt das Dach zu dämmen?",
+    "antwort": "Dämmung der obersten Geschossdecke. U-Wert 0,24 oder max. möglicher Dämmstoff WLG 035. Bei Einblasdämmung WLG 045."
+  },
+  {
+    "frage": "Erklären Sie die Abkürzungen: KFW, GEG, LBO, MBO, CAD, BIM, BAFA",
+    "antwort": "KFW Kreditanstalt für Wiederaufbau, GEG Gebäudeenergiegesetz, LBO Landesbauordnung, MBO Musterbauordnung, CAD Computer Aided Drawing, BIM Building Information Modeling, BAFA Bundesamt für Wirtschaft und Ausfuhrkontrolle."
+  },
+  {
+    "frage": "Was versteht man unter Handwerk 4.0?",
+    "antwort": "Digitalisierung im Handwerk, z.B. Drohnenaufnahmen, CAD, digitale Kalkulation, Zeiterfassung, BIM."
+  },
+  {
+    "frage": "Welche Möglichkeiten haben Sie digitale Prozesse im Unternehmen einzusetzen?",
+    "antwort": "Drohnenaufnahmen, CAD-Zeichnungen, Gebäudescanner, digitale Kalkulation, Zeiterfassung, Bautagebuch."
+  },
+  {
+    "frage": "Wann und wie kommen Sie heute mit BIM in Berührung?",
+    "antwort": "Seit Jan 2023 ist BIM Mindeststandard für Bundesbauten."
+  },
+  {
+    "frage": "Ab wann muss bei Sanierung nach GEG gearbeitet werden?",
+    "antwort": "Wenn >10% eines Bauteils saniert werden → nach GEG. Bei <10% nur Ursprungszustand herstellen."
+  },
+  {
+    "frage": "Ab wann gilt ein Dachraum als begehbar?",
+    "antwort": "Wenn Öffnung mind. 60x80 cm vorhanden ist."
+  },
+  {
+    "frage": "Was bedeutet 'wirtschaftlich vertretbar' im Zusammenhang mit GEG?",
+    "antwort": "Anforderungen müssen nach Stand der Technik erfüllbar sein und sich innerhalb der Nutzungsdauer amortisieren."
+  },
+  {
+    "frage": "In welchen Fällen muss das GEG nicht eingehalten werden?",
+    "antwort": "Denkmalschutz, wenn Bauherr Dämmen übernimmt, Ausnahmegenehmigungen, Befreiungen, Bagatellgrenze."
+  }
+]
